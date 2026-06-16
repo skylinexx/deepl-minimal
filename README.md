@@ -1,6 +1,6 @@
 # DeepL Minimal
 
-DeepL çeviri sayfasında yalnızca çeviri alanını gösterip geri kalan her şeyi gizleyen minimalist Chrome eklentisi.
+DeepL çeviri sayfasında yalnızca çeviri alanını kullanmak için Chrome eklentisi.
 
 ## Nasıl Çalışır
 
